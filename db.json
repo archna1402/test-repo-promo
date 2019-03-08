@@ -1,31 +1,83 @@
 {
-   "attributes": {
-      "countrycode": "US",
-      "sourcecode": "THANKU",
-      "languagecode": "ENG",
-      "tiercode": "THKSEARSNF, THKSEARSWF",
-      "userState": "C, L, O",
-   },
-   "rules": {
-      "placeHolderZoneID": "MODULE3",
-      "displayPriority": "5",
-   },
-   "promotiontype": {
-      "promo_type": "fullwidth"
-   },
-   "heropanel": {
-      "promotion_css_class": [],
-      "promotion_content": "<section role=\"banner\" id=\"banner-209-tysh\" class=\"generic-module section\"> <div class=\"background generic-promo-image-wrapper\"> <picture> <!--[if IE 9]><video style=\"display: none\"><![endif]--> <source media=\"(max-width:\n            551px)\" srcset=\"CDNURL/cms/images/citirewards/ty/usa/bg_mobile.jpg\"> <source media=\"(max-width: 769px)\" srcset=\"CDNURL/cms/images/citirewards/ty/usa/bg_tablet.jpg\"> <source srcset=\"CDNURL/cms/images/citirewards/ty/usa/bg_desktop.jpg\">\n            <!--[if IE 9]><\/video><![endif]--> <img class=\"banner-img-responsive lazyloaded\" alt=\"woman using a Sears card online\" src=\"CDNURL/cms/images/citirewards/ty/usa/bg_desktop.jpg\"> <\/picture> <\/div> <div\n            class=\"grid-container generic-promo-copy\"> <div class=\"section-header grid-100\"> <h2 class=\"generic-promo-headline desktop\">Redeem your points for a Sears gift card.<\/h2> <h2 class=\"generic-promo-headline mobile\">Redeem\n            your points for<br>a Sears gift card.<\/h2> <p class=\"generic-promo-sub-header desktop\">Shopping with it is a breeze. Use it online at Sears.com or in-store for<br>great merchandise like appliances, clothing, tools and\n            more.<\/p> <p class=\"generic-promo-sub-header mobile\">Shopping with it is a breeze. Use it<br>online at Sears.com or in-store for<br>great merchandise like appliances,<br>clothing, tools and more.<\/p> <a\n            class=\"btn\" role=\"button\" href=\"TYGRURL/tygr-web/gcProductDetail.htm?productId=CXTD34AZF92Q6H6JQ7AG7YTNZH&src=TYUSENG\">REDEEM NOW<\/a> <p class=\"disclaimer\"><\/p> <\/div> <\/div> <\/section> <style>\n            @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { #banner-209-tysh img { background: url(\"CDNURL/cms/images/citirewards/ty/usa/bg_mobile.jpg\") !important; padding: 335px 100% 0 0 !important; height: 0px !important; width:\n            0px !important; background-position: 50% 50% !important; background-origin: inherit !important; background-size: cover !important; } } @media all and (min-width: 551px) and (-ms-high-contrast: none), (-ms-high-contrast: active) { #banner-209-tysh\n            img { background:url(\"CDNURL/cms/images/citirewards/ty/usa/bg_tablet.jpg\") !important; padding: 335px 100% 0 0 !important; background-position: 100% 50% !important; background-origin: inherit !important; background-size: cover !important;\n            } } @media all and (min-width: 700px) and (-ms-high-contrast: none), (-ms-high-contrast: active) { #banner-209-tysh img { background-position: 100% 50% !important; } } @media all and (min-width: 769px) and (-ms-high-contrast: none), (-ms-high-contrast:\n            active) { #banner-209-tysh img { background:url(\"CDNURL/cms/images/citirewards/ty/usa/bg_desktop.jpg\") !important; padding: 413px 100% 0 0 !important; background-position: 85% 50% !important; background-origin: inherit !important; background-size:\n            cover !important; } } @media all and (min-width: 1200px) and (-ms-high-contrast: none), (-ms-high-contrast: active) { #banner-209-tysh img { } } @media all and (min-width: 1800px) and (-ms-high-contrast: none), (-ms-high-contrast: active)\n            { #banner-209-tysh img { background-position: 100% 50% !important; } } @media (min-width: 551px) { #banner-209-tysh img { object-position: 100% 50% !important; } } @media (min-width: 700px) { #banner-209-tysh img { object-position: 100% 50%\n            !important; } } @media (min-width: 769px) { #banner-209-tysh img { object-position: 85% 50% !important; } } @media (min-width: 1200px) { #banner-209-tysh img { } } @media (min-width: 1800px) { #banner-209-tysh img { object-position: 100% 50%\n            !important; } } #banner-209-tysh .generic-promo-image-wrapper img { height: 100%; object-fit: cover; font-family: 'object-fit: cover;'; object-position: 50% 50%; } #banner-209-tysh .section-header { padding: 20px 0px; } #banner-209-tysh .btn\n            { margin: 0px; } #banner-209-tysh .generic-promo-sub-header strong { font-family: \"Arial\"; } #banner-209-tysh .disclaimer { color: #ffffff; font-size: 14px; position: absolute; left: 0px; right: 0px; bottom: 0px; margin: 0px auto 20px auto;\n            } #banner-209-tysh .generic-promo-copy .generic-promo-headline { font-size: 25px !important; letter-spacing: -0.05em; } #banner-209-tysh.generic-module.section { padding: 0px; } #banner-209-tysh { min-height: auto; height: 335px; } #banner-209-tysh\n            .generic-promo-copy { min-height: inherit !important; color: #202020 !important; padding: 0px; } #banner-209-tysh .generic-promo-copy sup { font-size: 50%; top: -0.75em; } #banner-209-tysh h2.generic-promo-headline { line-height: 1em; color:\n            #202020 !important; } #banner-209-tysh span.spacer { display: block; height: 10px; } #banner-209-tysh .generic-promo-headline.desktop { display: none; } #banner-209-tysh .generic-promo-headline.mobile { display: block; } #banner-209-tysh .generic-promo-sub-header.desktop\n            { display: none; } #banner-209-tysh .generic-promo-sub-header.mobile { display: block; } #banner-209-tysh .generic-promo-sub-header.mobile { margin: 15px auto 20px auto; } #banner-209-tysh .generic-promo-copy { font-size: 24px; } #banner-209-tysh\n            .generic-promo-sub-header { font-size: 16px; max-width: none !important; line-height: 1.2em; } @media (min-width: 700px) { #banner-209-tysh .generic-promo-sub-header.desktop { display: block; } #banner-209-tysh .generic-promo-sub-header.mobile\n            { display: none; } #banner-209-tysh .generic-promo-sub-header { line-height: 1.4em; } #banner-209-tysh .generic-promo-copy .generic-promo-headline { font-size: 44px !important; letter-spacing: inherit; } #banner-209-tysh .section-header {\n            padding: 40px 0px; } #banner-209-tysh .disclaimer { margin: 0px auto 30px auto; } } @media (min-width: 769px) { #banner-209-tysh { height: 413px; } } @media (min-width: 1200px) { #banner-209-tysh .generic-promo-headline.desktop { display:\n            block; } #banner-209-tysh .generic-promo-headline.mobile { display: none; } #banner-209-tysh .generic-promo-sub-header { font-size: 18px; margin: 20px auto 40px auto; } } @media (max-width: 768px) { .btn { font-size: 14px !important; } } <\/style>\n            <script> window.onload = function() { objectFitImages('.generic-promo-image-wrapper img'); }; <\/script>"
-   },
-   "promobox": {
-      "promotion_css_class": [],
-      "promotion_content_left": {
-         "promotion_content_css_class": [],
-         "promotion_content": []
-      },
-      "promotion_content_right": {
-         "promotion_content_css_class": [],
-         "promotion_content": []
-      }
-   }
+    "attributes": {
+        "countrycode": "US",
+        "sourcecode": "THANKU",
+        "languagecode": "ENG",
+        "tiercode": "THKSEARSNF, THKSEARSWF",
+        "userState": "C, L, O"
+    },
+    "rules": {
+        "placeHolderZoneID": "MODULE3",
+        "displayPriority": "5"
+    },
+    "promotiontype": {
+        "promo_type": "fullwidth"
+    },
+    "heropanel": {
+        "promotion_css_class": [
+
+        ],
+        "promotion_content": "<section class="
+        section box - shadow activated " id="
+        ">
+  <section role="
+        banner " id="
+        banner - 209 - tysh " class="
+        generic - module section ">
+      <div class="
+        background generic - promo - image - wrapper ">
+          <picture>
+              <source media=" (max - width: 551px)
+        " srcset="
+        https: //staticcontent.tyfut.epsilon.com/cms/images/citirewards/ty/usa/bg_mobile.jpg">
+        < source media = "(max-width: 769px)"
+        srcset = "https://staticcontent.tyfut.epsilon.com/cms/images/citirewards/ty/usa/bg_tablet.jpg" > < source srcset = "https://staticcontent.tyfut.epsilon.com/cms/images/citirewards/ty/usa/bg_desktop.jpg" > < img class = "banner-img-responsive lazyloaded"
+        alt = "woman using a Sears card online"
+        src = "https://staticcontent.tyfut.epsilon.com/cms/images/citirewards/ty/usa/bg_desktop.jpg" > < /picture>
+      </div > < div class = "grid-container generic-promo-copy" > < div class = "section-header grid-100" > < h2 class = "generic-promo-headline desktop" > {
+            {
+                title
+            }
+        } < /h2>	
+              <h2 class="generic-promo-headline mobile">{{title}}</h2 > < p class = "generic-promo-sub-header desktop" > {
+            {
+                description_desk
+            }
+        } < /p>
+              <p class="generic-promo-sub-header mobile">{{description_mob}}</p > < a class = "btn"
+        role = "button"
+        href = "#" > {
+            {
+                button_text | uppercase
+            }
+        } < /a>
+              <p class="disclaimer"></p > < /div>
+      </div > < /section>
+  <script>
+      window.onload = function() {
+          objectFitImages('.generic-promo-image-wrapper img');
+      };
+  </script > < /section>"
+  },
+  "promobox": {
+    "promotion_css_class": [
+
+    ],
+    "promotion_content_left": {
+      "promotion_content_css_class": [
+
+      ],
+      "promotion_content": [
+
+      ]
+    },
+    "promotion_content_right": {
+      "promotion_content_css_class": [
+
+      ],
+      "promotion_content": [
+
+      ]
+    }
+  }
 }
